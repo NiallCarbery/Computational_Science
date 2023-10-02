@@ -1,1 +1,2 @@
-ACM20030 Computational Science, Assignment 1.
+ACM20030 Computational Science
+    Assignments listed within Folders with assisting files
